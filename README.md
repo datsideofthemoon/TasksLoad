@@ -7,7 +7,9 @@ Python for Android SL4A script to load last Google Tasks using Google Tasks API 
 Summary
 =======
 This Py4A script does load tasks list from Google Tasks using Google tasks API and then sets Zooper Widget variable with next format: 
+
 dd.mm hh:mm: task1 caption
+
 dd.mm hh:mm: task2 caption
 
 Installation
